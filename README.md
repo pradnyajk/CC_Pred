@@ -70,6 +70,7 @@ Rscript predict.R
 ### 3. User wil be prompted to select ``.csv`` file of sample gene expression data of above 14 genes.  
 ### 4. Once the .csv file is selected and the process is completed, results will be saved in ``cervical_cancer_prediction.csv`` file.
 
-
-
-
+## Citation
+If you use  **CC_Pred** in your publication, consider citing the [paper](https://doi.org/10.1080/07357907.2025.2575338):
+```
+Kamble, P., Dubey, K., Mukherjee, A., Jain, R., Roy, I., Puri, V., & Garg, P. (2025). Decoding Cervical Cancer Biomarkers: An Integrated Framework of Bioinformatics, Machine Learning, and Experimental Confirmation. Cancer Investigation, 1–21. https://doi.org/10.1080/07357907.2025.2575338
