@@ -1,4 +1,3 @@
-
 # Cervical Cancer Prediction using ML
 
 ML based classification model to predict given sample is tumor or normal.
